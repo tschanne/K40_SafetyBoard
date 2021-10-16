@@ -1,0 +1,11 @@
+10-15 20:27:43 archive_project.action_archive_project 108:Plugin executed on: 'win32'
+10-15 20:27:43 archive_project.action_archive_project 109:Plugin executed with python version: '2.7.18 (default, Apr 20 2020, 16:57:11)  [GCC 9.3.0 64 bit (AMD64)]'
+10-15 20:27:43 archive_project.action_archive_project 110:KiCad build version: (5.1.10)-1
+10-15 20:27:43 archive_project.action_archive_project 111:Archive plugin version: 48 started
+10-15 20:27:48 archive_project.action_archive_project 167:Starting archiving only schematics
+10-15 20:27:48 archive_project.archive_project 199:Starting to archive symbols
+10-15 20:27:48 archive_project.archive_project 206:Pcb filename:C:/Users/Thomas/NAS/Basteleien/Laser/SafetyBoard/SafetyBoard.kicad_pcb
+10-15 20:27:48 archive_project.archive_project 218:Kicad config path: C:\Users\Thomas\AppData\Roaming\kicad
+10-15 20:27:48 archive_project.archive_project 278:project-archive.lib is already in the sym-lib-table, using its nickname
+10-15 20:27:48 archive_project.archive_project 298:Project cache library does not exists!
+10-15 20:27:52 archive_project.action_archive_project 175:Action plugin exiting due to error in schematics archiving part

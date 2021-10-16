@@ -1,0 +1,2 @@
+(sym_lib_table    (lib (name archive)(type Legacy)(uri "${KIPRJMOD}/SafetyBoard-archive.lib")(options "")(descr ""))
+  (lib (name HFD3)(type Legacy)(uri ${KICAD_USER_SYM}/HFD3.lib)(options "")(descr "")))
